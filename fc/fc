@@ -1,0 +1,3 @@
+#!/bin/sh
+
+st -f Iosevka -g 100x25 -e fc_go
